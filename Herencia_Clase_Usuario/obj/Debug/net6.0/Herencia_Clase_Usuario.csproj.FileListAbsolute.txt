@@ -1,0 +1,15 @@
+C:\Users\abela\source\repos\Herencia_Clase_Usuario\Herencia_Clase_Usuario\bin\Debug\net6.0\Herencia_Clase_Usuario.exe
+C:\Users\abela\source\repos\Herencia_Clase_Usuario\Herencia_Clase_Usuario\bin\Debug\net6.0\Herencia_Clase_Usuario.deps.json
+C:\Users\abela\source\repos\Herencia_Clase_Usuario\Herencia_Clase_Usuario\bin\Debug\net6.0\Herencia_Clase_Usuario.runtimeconfig.json
+C:\Users\abela\source\repos\Herencia_Clase_Usuario\Herencia_Clase_Usuario\bin\Debug\net6.0\Herencia_Clase_Usuario.dll
+C:\Users\abela\source\repos\Herencia_Clase_Usuario\Herencia_Clase_Usuario\bin\Debug\net6.0\Herencia_Clase_Usuario.pdb
+C:\Users\abela\source\repos\Herencia_Clase_Usuario\Herencia_Clase_Usuario\obj\Debug\net6.0\Herencia_Clase_Usuario.csproj.AssemblyReference.cache
+C:\Users\abela\source\repos\Herencia_Clase_Usuario\Herencia_Clase_Usuario\obj\Debug\net6.0\Herencia_Clase_Usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abela\source\repos\Herencia_Clase_Usuario\Herencia_Clase_Usuario\obj\Debug\net6.0\Herencia_Clase_Usuario.AssemblyInfoInputs.cache
+C:\Users\abela\source\repos\Herencia_Clase_Usuario\Herencia_Clase_Usuario\obj\Debug\net6.0\Herencia_Clase_Usuario.AssemblyInfo.cs
+C:\Users\abela\source\repos\Herencia_Clase_Usuario\Herencia_Clase_Usuario\obj\Debug\net6.0\Herencia_Clase_Usuario.csproj.CoreCompileInputs.cache
+C:\Users\abela\source\repos\Herencia_Clase_Usuario\Herencia_Clase_Usuario\obj\Debug\net6.0\Herencia_Clase_Usuario.dll
+C:\Users\abela\source\repos\Herencia_Clase_Usuario\Herencia_Clase_Usuario\obj\Debug\net6.0\refint\Herencia_Clase_Usuario.dll
+C:\Users\abela\source\repos\Herencia_Clase_Usuario\Herencia_Clase_Usuario\obj\Debug\net6.0\Herencia_Clase_Usuario.pdb
+C:\Users\abela\source\repos\Herencia_Clase_Usuario\Herencia_Clase_Usuario\obj\Debug\net6.0\Herencia_Clase_Usuario.genruntimeconfig.cache
+C:\Users\abela\source\repos\Herencia_Clase_Usuario\Herencia_Clase_Usuario\obj\Debug\net6.0\ref\Herencia_Clase_Usuario.dll
